@@ -8,7 +8,7 @@ uid: 844bcf70-9c1d-433f-b805-788ee06f83e7
 ---
 Avruch, Kevin (1998). *Culture and Conflict Resolution.* Washington, DC: United States Institute of Peace. ISBN: 9781878379825.
 
-Bazerman, Max H. and Margaret A. Neale (1992). *Negotiating Rationally.* New York: Simon & Schuster Inc. Pp. 1–64.
+Bazerman, Max H. and Margaret A. Neale (1992). *Negotiating Rationally.* New York: Simon & Schuster. ISBN: 9780029019856.
 
 Bowles, Hannah Riley. (2013). "Psychological Perspectives on Gender in Negotiation." In M. K. Ryan & N. R. Branscombe (Eds.), *The Sage Handbook of Gender and Psychology*.
 
