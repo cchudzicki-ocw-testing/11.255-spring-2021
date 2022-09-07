@@ -14,8 +14,6 @@ Bowles, Hannah Riley. (2013). Psychological perspectives on gender in negotiati
 
 Costantino, Cathy A. and Christina Sickles Merchant (1995). *Designing Conflict Management Systems: A Guide to Creating Productive and Healthy Organizations.* San Francisco: Jossey-Bass. Chapter 1 (pp. 1–6).
 
-Cross-Cultural Negotiation Video: *Expert Scholars Share Their Strategies & Stories*
-
 Fisher, Roger (1983). Negotiating Power. *American Behavioral Scientist*, 27. Pp. 149–166.
 
 Fisher, Roger and William Ury (2011). *Getting to Yes*, updated revised edition. New York: Penguin.
@@ -39,8 +37,6 @@ Mayer, Bernard, Joseph Stulberg, Lawrence Susskind, and John Lande (2012). Pane
 Miller, Alyson (2009). *What Human-Centered Design Can Tell Us About the State of Dispute Systems Design*, pp.1–56.
 
 Moore, Christopher W. (1986). *How Mediation Works, The Mediation Process: Practical Strategies for Resolving Conflict*, San Francisco: Jossey Bass. Pp. 13–43.
-
-“Mutual Gains Approach to Negotiation: A Four Step Process” (handout plus laminated card) 
 
 Nolon, Sean (2012). Second Best Practices?: Addressing Mediation’s Definitional Problems in Environmental Siting Disputes. *Idaho Law Review*, 49. Pp. 70–119.
 
