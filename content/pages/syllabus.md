@@ -26,20 +26,18 @@ Some of the most important work in the field of dispute resolution is being done
 
 ### Required Texts 
 
-These books can be found in used form on Amazon. They are also on reserve in Rotch Library in the MIT School of Architecture and Planning.  
+Roger Fisher and William Ury, *Getting to Yes*, 3rd edition (Penguin, New York), 2011. ISBN: 9780143118756. This is a short paperback. Please read before the 5th class session. 
 
-Roger Fisher and William Ury, *Getting to Yes*, (Penguin, New York), 2011 (paperback, updated revised edition). This is a short paperback. Please read before the 5th class session. 
+Lawrence Susskind and Jeffrey Cruikshank, *Breaking the Impasse: Consensual Approaches to Resolving Public Disputes* (Basic Books, New York), 1987. ISBN: 9780465007509. This is background reading. Please read the first four chapters before the 2nd class session. 
 
-Lawrence Susskind and Jeffrey Cruikshank, *Breaking the Impasse: Consensual Approaches to Resolving Public Disputes* (Basic Books, New York), 1987, (paperback). This is background reading. Please read the first four chapters before the 2nd class session. 
+Lawrence Susskind and Jeffrey Cruikshank, *Breaking Robert’s Rules* (Oxford University Press, New      
+York) 2006. ISBN: 9780195308365. This is background reading. Please read Part 1 before the 6th class session. 
 
-Lawrence Susskind and Jeffrey Cruikshank, *Breaking Robert’s Rules* (Oxford University Press, New     
-York) 2006, (paperback). This is background reading. Please read Part 1 before the 6th class session. 
-
-Lawrence Susskind, *Good for You, Great for Me: Finding the Trading Zone and Winning at Win-Win Negotiation* (Public Affairs, New York), 2015. Kindle version available online from Amazon. 
+Lawrence Susskind, *Good for You, Great for Me: Finding the Trading Zone and Winning at Win-Win Negotiation* (Public Affairs, New York), 2015. ISBN: 9781610394253. Kindle version available online from Amazon. 
 
 ### Role-play Simulation (RPS) Exercises
 
-Participation in all of the role-play simulations is required. Short self-reflection memos reviewing the results of each of the negotiation simulations are required from all students for every game. RPS negotiations will be videotaped to enhance student learning. After each RPS exercise, students are required to provide written feedback (1-2 paragraphs) to their respective partners. 
+Participation in all of the role-play simulations is required. Short self-reflection memos reviewing the results of each of the negotiation simulations are required from all students for every game. RPS negotiations will be videotaped to enhance student learning. After each RPS exercise, students are required to provide written feedback (1–2 paragraphs) to their respective partners. 
 
 ### Scenarios
 
@@ -65,11 +63,11 @@ Each student will be paired up at the beginning of the semester. After each RPS
 
 ### Guidelines for Scenario Leaders
 
-Scenario leaders are responsible for preparing a 1-2 page (single spaced) framing memo in advance of their assigned scenario. This memo is to be uploaded to canvas one day before class the scenario will be discussed. The memo should clearly express the leader's ideas and approach to the scenario and serve as a template for facilitating a small group discussion. Drawing on the readings and class lectures, the small groups should analyze the scenario together. Scenario leaders should help the group: 
+Scenario leaders are responsible for preparing a 1–2 page (single spaced) framing memo in advance of their assigned scenario. This memo is to be uploaded to canvas one day before class the scenario will be discussed. The memo should clearly express the leader's ideas and approach to the scenario and serve as a template for facilitating a small group discussion. Drawing on the readings and class lectures, the small groups should analyze the scenario together. Scenario leaders should help the group: 
 
-\- Identify the choices that the stakeholders in the scenario must make;     
-\- Determine which principles the stakeholders should (or might) rely on in making these choices;     
-\- Identify what negotiation or consensus building strategies the stakeholders might pursue, based on their priorities;     
+\- Identify the choices that the stakeholders in the scenario must make;      
+\- Determine which principles the stakeholders should (or might) rely on in making these choices;      
+\- Identify what negotiation or consensus building strategies the stakeholders might pursue, based on their priorities;      
 \- Assess potential problems that the stakeholders may encounter. 
 
 Through the exchange of perspectives on these issues, students will have an opportunity to think hard about their personal theories of practice, improve their ability to analyze negotiation and dispute resolution  situations, and craft appropriate negotiation strategies. 
