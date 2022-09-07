@@ -28,16 +28,14 @@ Some of the most important work in the field of dispute resolution is being done
 
 These books can be found in used form on Amazon. They are also on reserve in Rotch Library in the MIT School of Architecture and Planning.  
 
-Roger Fisher and William Ury, Getting to Yes, (Penguin, New York), 2011 (paperback, updated revised edition). This is a short paperback. Please read before the 5th class session. 
+Roger Fisher and William Ury, *Getting to Yes*, (Penguin, New York), 2011 (paperback, updated revised edition). This is a short paperback. Please read before the 5th class session. 
 
-Lawrence Susskind and Jeffrey Cruikshank, Breaking the Impasse: Consensual Approaches to Resolving Public Disputes (Basic Books, New York), 1987, (paperback). This is background reading. Please read the first four chapters before the 2nd class session. 
+Lawrence Susskind and Jeffrey Cruikshank, *Breaking the Impasse: Consensual Approaches to Resolving Public Disputes* (Basic Books, New York), 1987, (paperback). This is background reading. Please read the first four chapters before the 2nd class session. 
 
-Lawrence Susskind and Jeffrey Cruikshank, Breaking Robert’s Rules (Oxford University Press, New    
+Lawrence Susskind and Jeffrey Cruikshank, *Breaking Robert’s Rules* (Oxford University Press, New     
 York) 2006, (paperback). This is background reading. Please read Part 1 before the 6th class session. 
 
-Lawrence Susskind, Good for You, Great for Me: Finding the Trading Zone and Winning at Win-Win Negotiation (Public Affairs, New York), 2015. Kindle version available online from Amazon. 
-
-All additional readings will be available on Canvas. All class announcements, assignments and due dates, along with updates to this syllabus will be posted on the canvas web page, so students should check the site regularly. 
+Lawrence Susskind, *Good for You, Great for Me: Finding the Trading Zone and Winning at Win-Win Negotiation* (Public Affairs, New York), 2015. Kindle version available online from Amazon. 
 
 ### Role-play Simulation (RPS) Exercises
 
@@ -63,15 +61,15 @@ Following each negotiation simulation, all students are responsible for assessi
 
 ### Negotiating Partner Feedback 
 
-Each student will be paired up at the beginning of the semester. After each RPS exercise, each student will provide a one to two paragraph feedback (or a set of comments and suggestions) to her/his partner via email and copy Lidia (lcano@mit.edu). 
+Each student will be paired up at the beginning of the semester. After each RPS exercise, each student will provide a one-to-two-paragraph feedback (or a set of comments and suggestions) to her/his partner via email and copy Lidia.
 
 ### Guidelines for Scenario Leaders
 
 Scenario leaders are responsible for preparing a 1-2 page (single spaced) framing memo in advance of their assigned scenario. This memo is to be uploaded to canvas one day before class the scenario will be discussed. The memo should clearly express the leader's ideas and approach to the scenario and serve as a template for facilitating a small group discussion. Drawing on the readings and class lectures, the small groups should analyze the scenario together. Scenario leaders should help the group: 
 
-\- Identify the choices that the stakeholders in the scenario must make;    
-\- Determine which principles the stakeholders should (or might) rely on in making these choices;    
-\- Identify what negotiation or consensus building strategies the stakeholders might pursue, based on their priorities;    
+\- Identify the choices that the stakeholders in the scenario must make;     
+\- Determine which principles the stakeholders should (or might) rely on in making these choices;     
+\- Identify what negotiation or consensus building strategies the stakeholders might pursue, based on their priorities;     
 \- Assess potential problems that the stakeholders may encounter. 
 
 Through the exchange of perspectives on these issues, students will have an opportunity to think hard about their personal theories of practice, improve their ability to analyze negotiation and dispute resolution  situations, and craft appropriate negotiation strategies. 
@@ -82,19 +80,21 @@ Every student will be asked to make one video presentation. Once the class rost
 
 ## Grading Policies
 
-Grades are based on the various course elements as follows:    
-• Facilitation of two scenario discussions, including the preparation of two framing memos in advance (20%)    
-• Self-reflection memos (no more than 500 words), one for each game. Feedback (1 to 2 paragraphs) to each student’s negotiating partner, one for each game. (30%)    
-• Video presentation (15%)    
-• In-class final exam (20%)    
-• Class participation/attendance, especially in role plays (15%). 
+Grades are based on the various course elements as follows:   
 
-Self-reflection memos and Scenario framing memos will be graded as follows:    
-• Memos that show only a minimal attempt to address the questions or the assigned material, or which are poorly written, will receive a check-minus (i.e., a grade of C+ to B-).    
-• An acceptable effort will get a check (i.e., a grade of B to A-)    
-• A superior level of effort will get a check-plus (i.e., a grade of A to A+).    
-o Strong self-reflection memos will draw on class readings and lectures to help make sense of the game experience.    
-o Strong scenario leadership memos will, as explained above, draw on class readings and lectures to reflect on the scenario. 
+- Facilitation of two scenario discussions, including the preparation of two framing memos in advance: 20%
+- Self-reflection memos (no more than 500 words), one for each game, and feedback (1 to 2 paragraphs) to each student’s negotiating partner, one for each game: 30%
+- Video presentation: 15%
+- In-class final exam: 20%
+- Class participation/attendance, especially in role plays: 15%
+
+Self-reflection memos and scenario framing memos will be graded as follows:   
+
+- Memos that show only a minimal attempt to address the questions or the assigned material, or which are poorly written, will receive a check-minus (i.e., a grade of C+ to B-).   
+- An acceptable effort will get a check (i.e., a grade of B to A-).   
+- A superior level of effort will get a check-plus (i.e., a grade of A to A+).
+
+Strong self-reflection memos will draw on class readings and lectures to help make sense of the game experience. Strong scenario leadership memos will likewise draw on class readings and lectures to reflect on the scenario.
 
 ### Late Assignments
 
