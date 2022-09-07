@@ -30,8 +30,7 @@ Roger Fisher and William Ury, *Getting to Yes*, 3rd edition (Penguin, New York),
 
 Lawrence Susskind and Jeffrey Cruikshank, *Breaking the Impasse: Consensual Approaches to Resolving Public Disputes* (Basic Books, New York), 1987. ISBN: 9780465007509. This is background reading. Please read the first four chapters before the 2nd class session. 
 
-Lawrence Susskind and Jeffrey Cruikshank, *Breaking Robert’s Rules* (Oxford University Press, New       
-York) 2006. ISBN: 9780195308365. This is background reading. Please read Part 1 before the 6th class session. 
+Lawrence Susskind and Jeffrey Cruikshank, *Breaking Robert’s Rules* (Oxford University Press, New York) 2006. ISBN: 9780195308365. This is background reading. Please read Part 1 before the 6th class session. 
 
 Lawrence Susskind, *Good for You, Great for Me: Finding the Trading Zone and Winning at Win-Win Negotiation* (Public Affairs, New York), 2015. ISBN: 9781610394253. Kindle version available online from Amazon. 
 
