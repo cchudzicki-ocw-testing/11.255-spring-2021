@@ -72,7 +72,7 @@ Susskind, Lawrence and Patrick Field (1997). *Dealing with an Angry Public: The
 
 Thayer-Hart, Nancy (ed.) (2007). *The Facilitator’s Tool Kit: A Guide for Helping Groups Get Results*. University of Wisconsin System Board of Regents
 
-Thomas-Hunt, Melissa, and Anya Malkov (2013), [“Social Norms and Stereotypes: What Happens When Everyone’s a Little Bit Sexist?”](http://wapppwire.blogspot.com/2013/04/social-norms-and-stereotypes-what.html) The Wappp Wire, April 8, 2013.
+Thomas-Hunt, Melissa and Anya Malkov (2013), [“Social Norms and Stereotypes: What Happens When Everyone’s a Little Bit Sexist?”](http://wapppwire.blogspot.com/2013/04/social-norms-and-stereotypes-what.html) The Wappp Wire, April 8, 2013.
 
 Tinsley, Catherine et al. (2009). Women at the bargaining table: pitfalls and prospects, Marquette University Law School Legal Studies Research Paper Series, 09-19: 1–20.
 
