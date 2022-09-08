@@ -34,9 +34,7 @@ Lewicki, Roy J. and Joseph A. Litterer (2009). "Strategy and Tactics of Integra
 
 Mayer, Bernard, Joseph Stulberg, Lawrence Susskind, and John Lande (2012). ["Panel Discussion—Core Values of Dispute Resolution: Is Neutrality Necessary?"](https://scholarship.law.marquette.edu/mulr/vol95/iss3/4/) *Marquette Law Review*, 95(3): 806–828. 
 
-Miller, Alyson (2009). [*What Human-Centered Design Can Tell Us About the State of Dispute Systems Design*](https://dspace.library.uvic.ca/handle/1828/10882) 
-
-Master's Project, University of Victoria.
+Miller, Alyson (2009). [*What Human-Centered Design Can Tell Us About the State of Dispute Systems Design.*](https://dspace.library.uvic.ca/handle/1828/10882) Master's Project, University of Victoria.
 
 Moore, Christopher W. (1986). "How Mediation Works" in *The Mediation Process: Practical Strategies for Resolving Conflict.* San Francisco: Jossey Bass. ISBN: 9780875896731.
 
