@@ -68,7 +68,7 @@ Susskind, Lawrence and Patrick Field (1997). *Dealing with an Angry Public: The
 
 Susskind, Lawrence and Connie Ozawa (1984). ["Mediated Negotiation in the Public Sector: The Planner as Mediator" (PDF).](https://susskindreader.mit.edu/sites/default/files/Mediated%20Negotiation%20in%20the%20Public%20Sector.pdf) *Journal of Planning Education and Research* 4(1): 5–15.
 
-Susskind, Lawrence and Jennifer Thomas-Larmer (1999). "Conducting a Conflict Assessment" in Susskind, Lawrence, Sarah McKearnan, and Jennifer Thomas-Larmer (eds.), *The Consensus Building Handbook.* Thousand Oaks, CA: Sage. ISBN: 9780761908449.
+Susskind, Lawrence and Jennifer Thomas-Larmer (1999). "Conducting a Conflict Assessment" in Lawrence Susskind, Sarah McKearnan, and Jennifer Thomas-Larmer (eds.), *The Consensus Building Handbook.* Thousand Oaks, CA: Sage. ISBN: 9780761908449.
 
 Thayer-Hart, Nancy (ed.) (2007). *The Facilitator’s Tool Kit: A Guide for Helping Groups Get Results*. University of Wisconsin System Board of Regents
 
