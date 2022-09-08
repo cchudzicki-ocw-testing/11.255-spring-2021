@@ -24,9 +24,9 @@ Forester, John (2020). ["Five Generations of Theory—Practice Tensions: Enrich
 
 Forester, John and David Stitzel (1989). ["Beyond Neutrality: The Possibilities of Activist Mediation in Public Sector Conflicts."](https://onlinelibrary.wiley.com/doi/10.1111/j.1571-9979.1989.tb00521.x) *Negotiation Journal* 5(3): 251–264.
 
-Gensberg, Alexis (2003). *Mediating Inequality: Mediators’ Perspectives on Power Imbalances in Public Disputes*. Cambridge, MA: Program on Negotiation. Pp. 4, 23–31, 60–63, 71–72.
+Gensberg, Alexis (2003). *Mediating Inequality: Mediators’ Perspectives on Power Imbalances in Public Disputes*. Cambridge, MA: Program on Negotiation.
 
-Laws, David (1999). *Representation of Stakeholder Interests. The Consensus Building Handbook.* L. Susskind, S. McKearnan, and J. Thomas-Larmer (eds.) Thousand Oaks, CA: Sage. Chapter 6. Pp. 241–285.
+Laws, David (1999). "Representation of Stakeholder Interests," Chapter 6 in *The Consensus Building Handbook.* Lawence Susskind, Sarah McKearnan, and Jennifer Thomas-Larmer (eds.) Thousand Oaks, CA: Sage. ISBN: 9780761908449.
 
 Lewicki, Roy J. and Joseph A. Litterer (1985). "Strategy and Tactics of Distributive Bargaining." *Negotiation: Readings, Exercises, and Cases*, 2nd ed. Homewood, IL: R.D. Irwin. Pp. 75–100.
 
