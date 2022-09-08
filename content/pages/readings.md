@@ -6,6 +6,8 @@ draft: false
 title: Readings
 uid: 844bcf70-9c1d-433f-b805-788ee06f83e7
 ---
+\[For the chronological sequence of these assigned readings, see the {{% resource_link "f7a25d27-e322-4900-ba82-1e4efca7bad7" "Calendar" %}} page.\]
+
 Avruch, Kevin (1998). *Culture and Conflict Resolution.* Washington, DC: United States Institute of Peace. ISBN: 9781878379825.
 
 Bazerman, Max H. and Margaret A. Neale (1992). *Negotiating Rationally.* New York: Simon & Schuster. ISBN: 9780029019856.
