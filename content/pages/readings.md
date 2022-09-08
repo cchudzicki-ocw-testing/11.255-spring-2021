@@ -50,7 +50,7 @@ Schwarz, Roger M. (1994). "Group Facilitation and the Role of the Facilitator,"
 
 Sebenius, James K. (1994). "Sequencing to Build Coalitions: With Whom Should I Talk First?" in Richard J. Zeckerhauser, Ralph L. Keeney, and James K. Sebenius (eds.), *Wise Choices: Decisions, Games, and Negotiations*. Boston: Harvard Business School Press. ISBN: 9780875846774.
 
-Shapiro, Ian (2003). *The State of Democratic Theory*. Princeton, NJ: Princeton University Press. pp. 10–34
+Shapiro, Ian (2003). *The State of Democratic Theory*. Princeton, NJ: Princeton University Press. ISBN: 9780691115474.
 
 Straus, David (1999). "Managing Meetings to Build Consensus" in Lawrence Susskind, Sarah McKearnan, and Jennifer Thomas-Larmer (eds.), *The Consensus Building Handbook.* Thousand Oaks, CA: Sage. ISBN: 9780761908449.
 
