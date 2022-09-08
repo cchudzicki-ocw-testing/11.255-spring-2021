@@ -34,7 +34,7 @@ Lewicki, Roy J. and Joseph A. Litterer (2009). "Strategy and Tactics of Integra
 
 Mayer, Bernard, Joseph Stulberg, Lawrence Susskind, and John Lande (2012). ["Panel Discussion—Core Values of Dispute Resolution: Is Neutrality Necessary?"](https://scholarship.law.marquette.edu/mulr/vol95/iss3/4/) *Marquette Law Review*, 95(3): 806–828. 
 
-Miller, Alyson (2009). [*What Human-Centered Design Can Tell Us About the State of Dispute Systems Design.*](https://dspace.library.uvic.ca/handle/1828/10882)
+Miller, Alyson (2009). [*What Human-Centered Design Can Tell Us About the State of Dispute Systems Design.*](https://dspace.library.uvic.ca/handle/1828/10882) 
 
 Master's Project, University of Victoria.
 
@@ -46,9 +46,9 @@ Raiffa, Howard (1982). *The Art and Science of Negotiation*. Cambridge, MA: Har
 
 Rogers, Nancy C., Robert C. Bordone, Frank E. A. Sander, and Craig McEwen. (2013), *Designing Systems and Processes for Managing Disputes*. ISBN: 9781454808183.
 
-Schwarz, Roger M. (1994). "Group Facilitation and the Role of the Facilitator," "What Makes Work Groups Effective," *The Skilled Facilitator: Practical Wisdom for Developing Effective Groups*. San Francisco: Jossey Bass. Pp. 3–41.
+Schwarz, Roger M. (1994). "Group Facilitation and the Role of the Facilitator," "What Makes Work Groups Effective" in *The Skilled Facilitator: Practical Wisdom for Developing Effective Groups*. San Francisco: Jossey Bass. ISBN: 9781555426385.
 
-Sebenius, James (1994). "Sequencing to Build Coalitions: With Whom Should I Talk First?" *Wise Choices: Decisions, Games, and Negotiations*. R. Zeckerhauser, R. Keeney, and J. Sebenius (eds.) Boston: Harvard Business School Press. Pp. 324–348.
+Sebenius, James K. (1994). "Sequencing to Build Coalitions: With Whom Should I Talk First?" in Richard J. Zeckerhauser, Ralph L. Keeney, and James K. Sebenius (eds.), *Wise Choices: Decisions, Games, and Negotiations*. Boston: Harvard Business School Press. ISBN: 9780875846774.
 
 Shapiro, Ian (2003). *The State of Democratic Theory*. Princeton, NJ: Princeton University Press. pp. 10–34
 
