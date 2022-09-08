@@ -34,7 +34,7 @@ Lewicki, Roy J. and Joseph A. Litterer (2009). "Strategy and Tactics of Integra
 
 Mayer, Bernard, Joseph Stulberg, Lawrence Susskind, and John Lande (2012). ["Panel Discussion—Core Values of Dispute Resolution: Is Neutrality Necessary?"](https://scholarship.law.marquette.edu/mulr/vol95/iss3/4/) *Marquette Law Review*, 95(3): 806–828. 
 
-Miller, Alyson (2009). [*What Human-Centered Design Can Tell Us About the State of Dispute Systems Design.*](https://dspace.library.uvic.ca/handle/1828/10882) 
+Miller, Alyson (2009). [*What Human-Centered Design Can Tell Us About the State of Dispute Systems Design.*](https://dspace.library.uvic.ca/handle/1828/10882)
 
 Master's Project, University of Victoria.
 
@@ -54,9 +54,9 @@ Shapiro, Ian (2003). *The State of Democratic Theory*. Princeton, NJ: Princeton
 
 Straus, David (1999). "Managing Meetings to Build Consensus" in Lawrence Susskind, Sarah McKearnan, and Jennifer Thomas-Larmer (eds.), *The Consensus Building Handbook.* Thousand Oaks, CA: Sage. ISBN: 9780761908449.
 
-Susskind, Babbitt, and Segal (1993). "When ADR Becomes the Law: A Review of Federal Practice." *Negotiation Journal*.
+Susskind Lawrence, Eileen F. Babbitt, and Phyllis N. Segal (1993). ["When ADR Becomes the Law: A Review of Federal Practice" (PDF).](https://susskindreader.mit.edu/sites/default/files/When%20ADR%20Becomes%20the%20Law.pdf) *Negotiation Journal* 9: 59–75.
 
-Susskind, Lawrence (2006). "Arguing, Bargaining and Getting Agreement." *The Oxford Handbook of Public Policy* (Oxford Handbooks of Political Science, Vol. 10). M. Moran, M. Rein, and R.E. Goodin (eds.) Oxford, UK: Oxford University Press.
+Susskind, Lawrence (2006). ["Arguing, Bargaining and Getting Agreement"](https://academic.oup.com/edited-volume/28180/chapter/213052215) in Michael Moran, Martin Rein, and Robert E. Goodin (eds.), *The Oxford Handbook of Public Policy* (Oxford Handbooks of Political Science, Vol. 10). Oxford, UK: Oxford University Press. ISBN: 9780199548453.
 
 Susskind, Lawrence (2007, October 12). "Consensus Building, Dispute Resolution and Social Justice." *Fordham Urban Law Review*. Pp. 185–203.
 
