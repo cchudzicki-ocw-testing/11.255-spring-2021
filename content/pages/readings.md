@@ -26,11 +26,11 @@ Forester, John and David Stitzel (1989). ["Beyond Neutrality: The Possibilities
 
 Gensberg, Alexis (2003). *Mediating Inequality: Mediators’ Perspectives on Power Imbalances in Public Disputes*. Cambridge, MA: Program on Negotiation.
 
-Laws, David (1999). "Representation of Stakeholder Interests," Chapter 6 in *The Consensus Building Handbook.* Lawence Susskind, Sarah McKearnan, and Jennifer Thomas-Larmer (eds.) Thousand Oaks, CA: Sage. ISBN: 9780761908449.
+Laws, David (1999). "Representation of Stakeholder Interests" in *The Consensus Building Handbook.* Lawence Susskind, Sarah McKearnan, and Jennifer Thomas-Larmer (eds.) Thousand Oaks, CA: Sage. ISBN: 9780761908449.
 
-Lewicki, Roy J. and Joseph A. Litterer (1985). "Strategy and Tactics of Distributive Bargaining." *Negotiation: Readings, Exercises, and Cases*, 2nd ed. Homewood, IL: R.D. Irwin. Pp. 75–100.
+Lewicki, Roy J. and Joseph A. Litterer (1985). "Strategy and Tactics of Distributive Bargaining" in *Negotiation: Readings, Exercises, and Cases*, 2nd ed. Homewood, IL: R.D. Irwin.
 
-Lewicki, Roy J. and Joseph A. Litterer (2009). "Strategy and Tactics of Integrative Bargaining." *Negotiation: Readings, Exercises, and Cases*, 6th ed. Homewood, IL: R.D. Irwin. Pp. 71–106.
+Lewicki, Roy J. and Joseph A. Litterer (2009). "Strategy and Tactics of Integrative Bargaining" in *Negotiation: Readings, Exercises, and Cases*, 6th ed. Homewood, IL: R.D. Irwin.
 
 Mayer, Bernard, Joseph Stulberg, Lawrence Susskind, and John Lande (2012). Panel Discussion—"Core Values of Dispute Resolution: Is Neutrality Necessary?" *Marquette Law Review*, 95(3). Pp: 806–828. 
 
