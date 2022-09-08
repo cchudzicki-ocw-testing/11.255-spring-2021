@@ -52,11 +52,11 @@ Shapiro, Ian (2003). *The State of Democratic Theory*. Princeton, NJ: Princeton
 
 Straus, David (1999). "Managing Meetings to Build Consensus" in Lawrence Susskind, Sarah McKearnan, and Jennifer Thomas-Larmer (eds.), *The Consensus Building Handbook.* Thousand Oaks, CA: Sage. ISBN: 9780761908449.
 
-Susskind Lawrence, Eileen F. Babbitt, and Phyllis N. Segal (1993). ["When ADR Becomes the Law: A Review of Federal Practice" (PDF).](https://susskindreader.mit.edu/sites/default/files/When%20ADR%20Becomes%20the%20Law.pdf) *Negotiation Journal* 9: 59–75.
+Susskind, Lawrence, Eileen F. Babbitt, and Phyllis N. Segal (1993). ["When ADR Becomes the Law: A Review of Federal Practice" (PDF).](https://susskindreader.mit.edu/sites/default/files/When%20ADR%20Becomes%20the%20Law.pdf) *Negotiation Journal* 9: 59–75.
 
 Susskind, Lawrence (2006). ["Arguing, Bargaining and Getting Agreement"](https://academic.oup.com/edited-volume/28180/chapter/213052215) in Michael Moran, Martin Rein, and Robert E. Goodin (eds.), *The Oxford Handbook of Public Policy* (Oxford Handbooks of Political Science, Vol. 10). Oxford, UK: Oxford University Press. ISBN: 9780199548453.
 
-Susskind, Lawrence (2007, October 12). "Consensus Building, Dispute Resolution and Social Justice." *Fordham Urban Law Review*. Pp. 185–203.
+Susskind, Lawrence (2007). ["Consensus Building, Dispute Resolution and Social Justice."](https://ir.lawnet.fordham.edu/ulj/vol35/iss1/7/) *Fordham Urban Law Review* 35(1): 185–203.
 
 Susskind, Lawrence and Connie Ozawa (1984). "Mediated Negotiation in the Public Sector: The Planner as Mediator." *Journal of Planning Education and Research*, 4(1). Pp. 5–15.
 
