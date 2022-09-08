@@ -52,23 +52,25 @@ Shapiro, Ian (2003). *The State of Democratic Theory*. Princeton, NJ: Princeton
 
 Straus, David (1999). "Managing Meetings to Build Consensus" in Lawrence Susskind, Sarah McKearnan, and Jennifer Thomas-Larmer (eds.), *The Consensus Building Handbook.* Thousand Oaks, CA: Sage. ISBN: 9780761908449.
 
-Susskind, Lawrence, Eileen F. Babbitt, and Phyllis N. Segal (1993). ["When ADR Becomes the Law: A Review of Federal Practice" (PDF).](https://susskindreader.mit.edu/sites/default/files/When%20ADR%20Becomes%20the%20Law.pdf) *Negotiation Journal* 9: 59–75.
-
 Susskind, Lawrence (2006). ["Arguing, Bargaining and Getting Agreement"](https://academic.oup.com/edited-volume/28180/chapter/213052215) in Michael Moran, Martin Rein, and Robert E. Goodin (eds.), *The Oxford Handbook of Public Policy* (Oxford Handbooks of Political Science, Vol. 10). Oxford, UK: Oxford University Press. ISBN: 9780199548453.
 
 Susskind, Lawrence (2007). ["Consensus Building, Dispute Resolution and Social Justice."](https://ir.lawnet.fordham.edu/ulj/vol35/iss1/7/) *Fordham Urban Law Review* 35(1): 185–203.
 
-Susskind, Lawrence and Connie Ozawa (1984). "Mediated Negotiation in the Public Sector: The Planner as Mediator." *Journal of Planning Education and Research*, 4(1). Pp. 5–15.
+Susskind, Lawrence, Eileen F. Babbitt, and Phyllis N. Segal (1993). ["When ADR Becomes the Law: A Review of Federal Practice" (PDF).](https://susskindreader.mit.edu/sites/default/files/When%20ADR%20Becomes%20the%20Law.pdf) *Negotiation Journal* 9: 59–75.
 
-Susskind, Lawrence and Jeffrey Cruikshank (1987). *Breaking the Impasse: Consensual Approaches to Resolving Public Disputes*. New York: Basic Books. Chapters 1–4. (book) 
+Susskind, Lawrence and Jeffrey Cruikshank (1987). *Breaking the Impasse: Consensual Approaches to Resolving Public Disputes*. New York: Basic Books. ISBN: 9780465007509.
 
-Susskind, Lawrence and Jeffrey Cruikshank (2006). *Breaking Robert’s Rules: The New Way to Run Your Meeting, Building Consensus, and Getting Results*. New York: Oxford University Press. Part 1
+Susskind, Lawrence and Jeffrey Cruikshank (2006). *Breaking Robert’s Rules: The New Way to Run Your Meeting, Build Consensus, and Get Results*. New York: Oxford University Press. ISBN: 9780195308365.
 
-Susskind, Lawrence and Jennifer Thomas-Larmer (1999). *Conducting a Conflict Assessment. The Consensus Building Handbook*. L. Susskind, S. McKearnan, and J. Thomas-Larmer (eds.) Thousand Oaks, CA: Sage. Pp. 99–136.
+Susskind, Lawrence and Larry Crump (2009). Introduction to *Theory and Practice of Public Dispute Resolution* (*Multiparty Negotiation*, Vol. 2) London: Sage. ISBN: 9781412948128.
 
-Susskind, Lawrence and Larry Crump (2009). Introduction. *Theory and Practice of Public Dispute Resolution* (Multiparty Negotiation, Vol. 2) London: Sage.
+Susskind, Lawrence and Patrick Field (1997). *Dealing with an Angry Public: The Mutual Gains Approach to Resolving Disputes*. New York: The Free Press. ISBN: 9780684823027.
 
-Susskind, Lawrence and Patrick Field (1997). *Dealing with an Angry Public: The Mutual Gains Approach*. New York: The Free Press. Chapters 1 and 6. (pp. 1–14; 152–197).
+Susskind, Lawrence and Connie Ozawa (1984). ["Mediated Negotiation in the Public Sector: The Planner as Mediator" (PDF).](https://susskindreader.mit.edu/sites/default/files/Mediated%20Negotiation%20in%20the%20Public%20Sector.pdf) *Journal of Planning Education and Research* 4(1): 5–15.
+
+Susskind, Lawrence and Jennifer Thomas-Larmer (1999). "Conducting a Conflict Assessment" in 
+
+Lawrence Susskind, Sarah McKearnan, and Jennifer Thomas-Larmer (eds.), *The Consensus Building Handbook.* Thousand Oaks, CA: Sage. ISBN: 9780761908449.
 
 Thayer-Hart, Nancy (ed.) (2007). *The Facilitator’s Tool Kit: A Guide for Helping Groups Get Results*. University of Wisconsin System Board of Regents
 
