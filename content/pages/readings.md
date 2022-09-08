@@ -14,15 +14,15 @@ Bowles, Hannah Riley. (2013). "Psychological Perspectives on Gender in Negotiat
 
 Costantino, Cathy A. and Christina Sickles Merchant (1995). *Designing Conflict Management Systems: A Guide to Creating Productive and Healthy Organizations.* San Francisco: Jossey-Bass. ISBN: 9780787901622.
 
-Fisher, Roger (1983). Negotiating Power. *American Behavioral Scientist*, 27. Pp. 149–166.
+Fisher, Roger (1983). ["Negotiating Power: Getting and Using Influence."](https://journals.sagepub.com/doi/10.1177/000276483027002004) *American Behavioral Scientist* 27: 149–166.
 
-Fisher, Roger and William Ury (2011). *Getting to Yes*, updated revised edition. New York: Penguin.
+Fisher, Roger and William Ury (2011). *Getting to Yes*, updated revised edition. New York: Penguin. ISBN: 9780143118756.
 
-Forester, John (1999). "Dealing with Deep Value Differences." *The Consensus Building Handbook*. L. Susskind, S. McKearnan, and J. Thomas-Larmer (eds.) Thousand Oaks, CA: Sage. Chapter 12 (pp. 463–493).
+Forester, John (1999). "Dealing with Deep Value Differences" in Lawrence Susskind, Sarah McKearnan, and Jennifer Thomas-Larmer (eds.),*The Consensus Building Handbook*. Thousand Oaks, CA: Sage. ISBN: 9780761908449.
 
-Forester, John (2019). "Five Generations of Theory-Practice Tensions: Enriching Socio-ecological Practice Research." *Socio-Ecological Practice Research*.
+Forester, John (2020). ["Five Generations of Theory—Practice Tensions: Enriching Socio-Ecological Practice Research."](https://link.springer.com/article/10.1007/s42532-019-00033-3) *Socio-Ecological Practice Research* 2: 111–119.
 
-Forester, John and David Stitzel (1989). "Beyond Neutrality: The Possibilities of Activist Mediation in Public Sector Conflicts." *Negotiation Journal*, 5(3).
+Forester, John and David Stitzel (1989). ["Beyond Neutrality: The Possibilities of Activist Mediation in Public Sector Conflicts."](https://onlinelibrary.wiley.com/doi/10.1111/j.1571-9979.1989.tb00521.x) *Negotiation Journal* 5(3): 251–264.
 
 Gensberg, Alexis (2003). *Mediating Inequality: Mediators’ Perspectives on Power Imbalances in Public Disputes*. Cambridge, MA: Program on Negotiation. Pp. 4, 23–31, 60–63, 71–72.
 
