@@ -40,11 +40,11 @@ Master's Project, University of Victoria.
 
 Moore, Christopher W. (1986). "How Mediation Works" in *The Mediation Process: Practical Strategies for Resolving Conflict.* San Francisco: Jossey Bass. ISBN: 9780875896731.
 
-Nolon, Sean (2012). "Second Best Practices?: Addressing Mediation’s Definitional Problems in Environmental Siting Disputes." *Idaho Law Review*, 49. Pp. 70–119.
+Nolon, Sean (2012). ["Second Best Practices?: Addressing Mediation’s Definitional Problems in Environmental Siting Disputes."](https://m.heinonline.org/HOL/Page?collection=journals&handle=hein.journals/idlr49&id=72&men_tab=srchresults) *Idaho Law Review* 49: 70–119.
 
-Raiffa, Howard (1982). *The Art and Science of Negotiation*. Cambridge, MA: Harvard University Press.
+Raiffa, Howard (1982). *The Art and Science of Negotiation*. Cambridge, MA: Harvard University Press. ISBN: 9780674048126.
 
-Rogers, Nancy C., Robert C. Bordone, et al. (2013), *Designing Systems and Processes for Managing Disputes*, pp. 116–132.
+Rogers, Nancy C., Robert C. Bordone, Frank E. A. Sander, and Craig McEwen. (2013), *Designing Systems and Processes for Managing Disputes*. ISBN: 9781454808183.
 
 Schwarz, Roger M. (1994). "Group Facilitation and the Role of the Facilitator," "What Makes Work Groups Effective," *The Skilled Facilitator: Practical Wisdom for Developing Effective Groups*. San Francisco: Jossey Bass. Pp. 3–41.
 
