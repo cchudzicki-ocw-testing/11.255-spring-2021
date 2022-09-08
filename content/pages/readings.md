@@ -10,9 +10,9 @@ Avruch, Kevin (1998). *Culture and Conflict Resolution.* Washington, DC: United
 
 Bazerman, Max H. and Margaret A. Neale (1992). *Negotiating Rationally.* New York: Simon & Schuster. ISBN: 9780029019856.
 
-Bowles, Hannah Riley. (2013). "Psychological Perspectives on Gender in Negotiation." In M. K. Ryan & N. R. Branscombe (Eds.), *The Sage Handbook of Gender and Psychology*.
+Bowles, Hannah Riley. (2013). "Psychological Perspectives on Gender in Negotiation" in Michelle K. Ryan & Nyla R. Branscombe (eds.), *The SAGE Handbook of Gender and Psychology*. Los Angeles, CA: Sage Publications. ISBN: 9781446203071.
 
-Costantino, Cathy A. and Christina Sickles Merchant (1995). *Designing Conflict Management Systems: A Guide to Creating Productive and Healthy Organizations.* San Francisco: Jossey-Bass. Chapter 1 (pp. 1–6).
+Costantino, Cathy A. and Christina Sickles Merchant (1995). *Designing Conflict Management Systems: A Guide to Creating Productive and Healthy Organizations.* San Francisco: Jossey-Bass. ISBN: 9780787901622.
 
 Fisher, Roger (1983). Negotiating Power. *American Behavioral Scientist*, 27. Pp. 149–166.
 
