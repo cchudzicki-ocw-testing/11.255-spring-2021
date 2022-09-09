@@ -74,7 +74,7 @@ Susskind, Lawrence and Jennifer Thomas-Larmer (1999). "Conducting a Conflict As
 
 Thayer-Hart, Nancy (ed.) (2007). [*The Facilitator’s Tool Kit: A Guide for Helping Groups Get Results* (PDF).](https://riversedgewest.org/sites/default/files/resource-center-documents/Facilitator_Tool_Kit.pdf) University of Wisconsin System Board of Regents.
 
-Thomas-Hunt, Melissa and Anya Malkov (2013), [“Social Norms and Stereotypes: What Happens When Everyone’s a Little Bit Sexist?”](http://wapppwire.blogspot.com/2013/04/social-norms-and-stereotypes-what.html) The Wappp Wire, April 8, 2013.
+Thomas-Hunt, Melissa and Anya Malkov (2013), [“Social Norms and Stereotypes: What Happens When Everyone’s a Little Bit Sexist?”](http://wapppwire.blogspot.com/2013/04/social-norms-and-stereotypes-what.html) The WAPPP Wire, April 8, 2013.
 
 Tinsley, Catherine et al. (2009). ["Women at the Bargaining Table: Pitfalls and Prospects."](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1571-9979.2009.00222.x) Marquette University Law School Legal Studies Research Paper Series, 09-19: 1–20.
 
