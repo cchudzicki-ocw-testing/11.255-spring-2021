@@ -136,7 +136,7 @@ Assigned Reading: 
 
 Assigned Reading: 
 
-Fisher, "Negotiating Power"
+- Fisher, "Negotiating Power"
 
 ### Session 18: Game #6 Debriefing; Roles and Responsibilities of Mediators (and Planners as Mediators) 
 
@@ -146,43 +146,24 @@ Scenario #6: A Call to Prayer 
 
 Assigned Reading: 
 
-Gensberg, Alexis (2003). Mediating Inequality: Mediators’            
-perspectives on power imbalances in public disputes. Cambridge,            
-MA: Program on Negotiation. Pp. 4, 23-31, 60-63, 71-72. (canvas)  
+- Gensberg, "Mediating Inequality"
+- Waldman, "Mediation Ethics," chapters 6 and 8.
+- Avruch, *Culture and Conflict Resolution*, parts 3–4
 
-Waldman, Ellen (2011). Mediation Ethics: Cases and commentaries.            
-San Francisco: Jossey-Bass. Chapter 6 and Chapter 8. (canvas) 
-
-Avruch, Kevin (1998). Culture and Conflict Resolution. Washington,            
-DC: United States Institute of Peace. Parts 3–4 (pp. 57-108). (canvas) 
-
-Assigned Video (watch before class): 
-
-Cross-Cultural Negotiation Video: Expert Scholars Share Their            
-Strategies & Stories (canvas) 
+Assigned Video (watch before class): Cross-Cultural Negotiation Video
 
 ## PART V: DISPUTE SYSTEMS DESIGN 
 
-### Session 20: Introduction to Dispute Systems Design in the Public Sector (Rule-making, rate setting, etc.) 
+### Session 20: Introduction to Dispute Systems Design in the Public Sector (Rule-making, Rate Setting, etc.) 
 
 Exercise: Negotiating with a Newtonian 
 
 Assigned Reading: 
 
-Rogers, Nancy C., Robert C. Bordone, et al. (2013), Designing Systems            
-and Processes for Managing Disputes, pp. 116-132. (canvas) 
-
-Costantino, Cathy A. and Christina Sickles Merchant (1995). Designing            
-conflict management systems: A guide to creating productive and            
-healthy organizations. San Francisco: Jossey-Bass. Chapter 1 (pp. 1-           
-66). (canvas) 
-
-Miller, Alyson (2009). What Human-Centered Design Can Tell Us            
-About the State of Dispute Systems Design, pp.1-56. (canvas) 
-
-Optional Reading: Susskind, Babbitt and Segal (1993). When ADR            
-Becomes the Law: A Review of Federal Practice. Negotiation            
-Journal. (canvas) 
+- Rogers, Bordone, et al., *Designing Systems and Processes for Managing Disputes*, 116–132
+- Costantino and Merchant, *Designing Conflict Management Systems*, chapter 1
+- Miller, *What Human-Centered Design Can Tell Us About the State of Dispute Systems Design*, 1–56
+- OPTIONAL: Susskind, Babbitt, and Segal, "When ADR Becomes the Law"
 
 ## PART VI: VALUE-BASED DISPUTES 
 
@@ -192,33 +173,18 @@ Game #7: OutFest 
 
 Assigned Reading: 
 
-Forester, John (1999). Dealing with Deep Value Differences. The            
-Consensus Building Handbook. L. Susskind, S. McKearnan, and J.            
-Thomas-Larmer (eds.) Thousand Oaks, CA: Sage. Chapter 12 (pp. 463-           
-493). (canvas) 
-
-Susskind, Lawrence and Patrick Field (1997). Dealing with an Angry            
-Public: The Mutual Gains Approach. New York: The Free Press.            
-Chapters 1 and 6. (pp. 1-14; 152-197). (canvas)  
-
-Laws, David (1999). Representation of Stakeholder Interests. The            
-Consensus Building Handbook. L. Susskind, S. McKearnan, and J.            
-Thomas-Larmer (eds.) Thousand Oaks, CA: Sage. Chapter 6. Pp. 241-           
-285\. (canvas) 
+- Forester, "Dealing with Deep Value Differences"
+- Susskind and Field, *Dealing with an Angry Public*, 1–14 and 152–197
+- Laws, "Representation of Stakeholder Interests"
 
 ### Session 22: Game #7 Debriefing;    
 
 ## PART VII: CONCLUSION    
 
-### Session 23: Wrap-up Discussion (Incorporating all the ideas and techniques    
-
-covered in 11.255 into your personal theory of practice (PTOP)) 
+### Session 23: Wrap-up Discussion (Incorporating all the ideas and techniques    covered in 11.255 into your personal theory of practice (PTOP)) 
 
 ### Session 24: Final Exam 
 
-\*\*Note: mindful of the fact that this year’s academic calendars differ            
-significantly between MIT and Harvard, we will allow Harvard students            
-to take the final one week early so grades can be submitted to their            
-registrar by their required end-of-term date. 
+\*\*Note: mindful of the fact that this year’s academic calendars differ significantly between MIT and Harvard, we will allow Harvard students to take the final one week early so grades can be submitted to their registrar by their required end-of-term date. 
 
 ### Session 25: Last class
