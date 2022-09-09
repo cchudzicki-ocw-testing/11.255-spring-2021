@@ -167,7 +167,7 @@ Assigned Reading: 
 
 ## PART VI: VALUE-BASED DISPUTES 
 
-### Session 21: Introduction to Values-based Disputes 
+### Session 21: Introduction to Values-Based Disputes 
 
 Game #7: OutFest 
 
@@ -181,7 +181,7 @@ Assigned Reading: 
 
 ## PART VII: CONCLUSION    
 
-### Session 23: Wrap-up Discussion (Incorporating all the ideas and techniques    covered in 11.255 into your personal theory of practice (PTOP)) 
+### Session 23: Wrap-up Discussion (Incorporating All the Ideas and Techniques Covered in 11.255 into Your Personal Theory of Practice (PTOP)) 
 
 ### Session 24: Final Exam 
 
