@@ -11,7 +11,11 @@ leftnav:
   name: Readings
   url: /pages/readings
   weight: 30
+- identifier: 4179d1c0-7094-4d60-ae8b-e4c80e993b15
+  name: Scenarios
+  url: /pages/scenarios
+  weight: 40
 - identifier: fb422766-748d-47a2-867d-1e5e54682b37
   name: Final Exam
   url: /pages/final-exam
-  weight: 40
+  weight: 50
