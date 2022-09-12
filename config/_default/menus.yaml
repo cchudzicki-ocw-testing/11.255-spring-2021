@@ -11,3 +11,7 @@ leftnav:
   name: Readings
   url: /pages/readings
   weight: 30
+- identifier: fb422766-748d-47a2-867d-1e5e54682b37
+  name: Final Exam
+  url: /pages/final-exam
+  weight: 40
