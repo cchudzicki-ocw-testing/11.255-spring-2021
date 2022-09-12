@@ -8,13 +8,17 @@ uid: f7a25d27-e322-4900-ba82-1e4efca7bad7
 ---
 ## PART I: INTRODUCTION   
 
-### Session 1: Democratic Decision-making: An Overview   
+### Session 1
+
+#### Democratic Decision-Making: An Overview   
 
 Assigned Reading:     
 
 - Shapiro, *The State of Democratic Theory*, 10–34
 
-### Session 2:  Deliberation vs. Dispute Resolution in the Public Sector   
+### Session 2
+
+#### Deliberation vs. Dispute Resolution in the Public Sector   
 
 Assigned Readings:     
 
@@ -23,7 +27,9 @@ Assigned Readings:     
 - Susskind, "Consensus Building, Dispute Resolution and Social Justice"
 - Forester, "Five Generations of Theory-Practice Tensions"   
 
-### Session 3:  Introduction to Negotiation: Playing the Traditional Game Well   
+### Session 3
+
+#### Introduction to Negotiation: Playing the Traditional Game Well   
 
 Game #1: Parker v. Gibson + Debriefing
 
@@ -34,7 +40,9 @@ Assigned Reading:
 
 ## PART II: NEGOTIATION THEORY 
 
-### Session 4: Playing the Traditional Game Well (Framing, Anchoring and Managing the Pattern of Concessions) 
+### Session 4
+
+#### Playing the Traditional Game Well (Framing, Anchoring and Managing the Pattern of Concessions) 
 
 Scenario #1: Traditional Negotiation Game
 
@@ -42,7 +50,9 @@ Assigned Reading:
 
 - Bazerman and Neale, *Negotiating Rationally*, 1–64   
 
-### Session 5: Consensus Building: Introduction to the Mutual Gains Approach (MGA) to Negotiation 
+### Session 5
+
+#### Consensus Building: Introduction to the Mutual Gains Approach (MGA) to Negotiation 
 
 Scenario #2: The Consensus Building Approach
 
@@ -52,17 +62,23 @@ Assigned Reading:
 - Mutual Gains Approach to Negotiation: A Four Step Process (handout plus laminated card)
 - Fisher and Ury, *Getting to Yes*
 
-### Session 6: MGA Continued    
+### Session 6
+
+#### MGA Continued    
 
 Game #2: Bakra Beverage (iDecisionGames) + Debriefing 
 
-### Session 7: Value Creation and Integrative Bargaining 
+### Session 7
+
+#### Value Creation and Integrative Bargaining 
 
 Assigned Reading: 
 
 - Lewicki and Litterer, "Strategy and Tactics of Integrative Bargaining"
 
-### Session 8: Multi-party Negotiation Theory (Conflict Assessment) 
+### Session 8
+
+#### Multi-Party Negotiation Theory (Conflict Assessment) 
 
 Game #3: Three Party Game + Debriefing 
 
@@ -71,7 +87,9 @@ Assigned Reading: 
 - Sebenius, "Sequencing to Build Coalitions"      
 - Susskind and Crump, introduction to *Theory and Practice of Public Dispute Resolution*
 
-### Session 9: Multi-party Negotiation Theory continued 
+### Session 9
+
+#### Multi-Party Negotiation Theory continued 
 
 Game #4: Harborco (iDecisionGames) 
 
@@ -79,7 +97,9 @@ Assigned Reading: 
 
 - Raiffa, *The Art and Science of Negotiation*, 257–274
 
-### Session 10: Game #4 Debriefing; Introduction to Facilitation 
+### Session 10
+
+#### Game #4 Debriefing; Introduction to Facilitation 
 
 Scenario #3: Facilitation 
 
@@ -90,13 +110,17 @@ Assigned Reading: 
 
 ## PART III: FACILITATION 
 
-### Session 11: Roles and Responsibilities of the Facilitator in a Public Disputes Context 
+### Session 11
+
+#### Roles and Responsibilities of the Facilitator in a Public Disputes Context 
 
 Assigned Reading: 
 
 - Thayer-Hart, *The Facilitator’s Tool Kit*
 
-### Session 12: Gender and Negotiation 
+### Session 12
+
+#### Gender and Negotiation 
 
 Scenario #4: Gender and Negotiation 
 
@@ -106,15 +130,21 @@ Assigned Reading: 
 - OPTIONAL: Tinsley et al., "Women at the Bargaining Table" 
 - OPTIONAL: Thomas-Hunt and Malkov, "Social Norms and Stereotypes”
 
-### Session 13: The Process of Facilitating a Public Meeting 
+### Session 13
+
+#### The Process of Facilitating a Public Meeting 
 
 Game #5: Dirty Stuff 
 
-### Session 14: Game #5 Debriefing 
+### Session 14
+
+#### Game #5 Debriefing 
 
 ## PART IV: MEDIATION 
 
-### Session 15: Introduction to Mediation 
+### Session 15
+
+#### Introduction to Mediation 
 
 Assigned Reading: 
 
@@ -122,7 +152,9 @@ Assigned Reading: 
 - Moore, "How Mediation Works"
 - OPTIONAL: Nolon, "Second Best Practices?"
 
-### Session 16: Roles and Responsibilities of the Mediator 
+### Session 16
+
+#### Roles and Responsibilities of the Mediator 
 
 Scenario #5: Roles and Responsibilities of Public Sector Mediators 
 
@@ -132,15 +164,21 @@ Assigned Reading: 
 - Susskind and Thomas-Larmer, "Conducting a Conflict Assessment"
 - Mayer, Stulberg, Susskind, and Lande, "Panel Discussion—Core Values of Dispute Resolution"
 
-### Session 17: Game #6: Hydropower in Santales (iDecisionGames) 
+### Session 17
+
+#### Game #6: Hydropower in Santales (iDecisionGames) 
 
 Assigned Reading: 
 
 - Fisher, "Negotiating Power"
 
-### Session 18: Game #6 Debriefing; Roles and Responsibilities of Mediators (and Planners as Mediators) 
+### Session 18
 
-### Session 19: The Ethics of Mediation and Dispute Resolution; Cross-Cultural Applications of Public Dispute Mediation 
+#### Game #6 Debriefing; Roles and Responsibilities of Mediators (and Planners as Mediators) 
+
+### Session 19
+
+#### The Ethics of Mediation and Dispute Resolution; Cross-Cultural Applications of Public Dispute Mediation 
 
 Scenario #6: A Call to Prayer 
 
@@ -154,7 +192,9 @@ Assigned Video (watch before class): Cross-Cultural Negotiation Video
 
 ## PART V: DISPUTE SYSTEMS DESIGN 
 
-### Session 20: Introduction to Dispute Systems Design in the Public Sector (Rule-making, Rate Setting, etc.) 
+### Session 20
+
+#### Introduction to Dispute Systems Design in the Public Sector (Rule-Making, Rate Setting, etc.) 
 
 Exercise: Negotiating with a Newtonian 
 
@@ -167,7 +207,9 @@ Assigned Reading: 
 
 ## PART VI: VALUE-BASED DISPUTES 
 
-### Session 21: Introduction to Values-Based Disputes 
+### Session 21
+
+#### Introduction to Values-Based Disputes 
 
 Game #7: OutFest 
 
@@ -177,14 +219,22 @@ Assigned Reading: 
 - Susskind and Field, *Dealing with an Angry Public*, 1–14 and 152–197
 - Laws, "Representation of Stakeholder Interests"
 
-### Session 22: Game #7 Debriefing;    
+### Session 22
+
+#### Game #7 Debriefing    
 
 ## PART VII: CONCLUSION    
 
-### Session 23: Wrap-up Discussion (Incorporating All the Ideas and Techniques Covered in 11.255 into Your Personal Theory of Practice (PTOP)) 
+### Session 23
 
-### Session 24: Final Exam 
+#### Wrap-up Discussion (Incorporating All the Ideas and Techniques Covered in 11.255 into Your Personal Theory of Practice (PTOP)) 
+
+### Session 24
+
+#### {{% resource_link "fb422766-748d-47a2-867d-1e5e54682b37" "Final Exam" %}} 
 
 \*\*Note: mindful of the fact that this year’s academic calendars differ significantly between MIT and Harvard, we will allow Harvard students to take the final one week early so grades can be submitted to their registrar by their required end-of-term date. 
 
-### Session 25: Last class
+### Session 25
+
+#### Last class
