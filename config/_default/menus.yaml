@@ -19,3 +19,28 @@ leftnav:
   name: Final Exam
   url: /pages/final-exam
   weight: 50
+- identifier: 593db1b1-549f-42b1-86eb-4b1027a6f444
+  name: 'Scenario #1'
+  parent: 4179d1c0-7094-4d60-ae8b-e4c80e993b15
+  url: /pages/scenario-1-the-traditional-negotiation-game
+  weight: 10
+- identifier: ff4cc5c0-893a-4fa7-af45-865f901c0e48
+  name: 'Scenario #2'
+  parent: 4179d1c0-7094-4d60-ae8b-e4c80e993b15
+  url: /pages/scenario-2-the-consensus-building-approach
+  weight: 20
+- identifier: b793b25f-f4cc-4f66-876c-b6392c09cffe
+  name: 'Scenario #3'
+  parent: 4179d1c0-7094-4d60-ae8b-e4c80e993b15
+  url: /pages/scenario-3-facilitation
+  weight: 30
+- identifier: ee006516-2ada-47e9-882b-505120291ee1
+  name: 'Scenario #4'
+  parent: 4179d1c0-7094-4d60-ae8b-e4c80e993b15
+  url: /pages/scenario-4-gender-and-negotiation
+  weight: 40
+- identifier: d385740e-ce43-4798-92a5-9e2f16b929c5
+  name: 'Scenario #5'
+  parent: 4179d1c0-7094-4d60-ae8b-e4c80e993b15
+  url: /pages/scenario-5-roles-and-responsibilities-of-public-sector-mediators
+  weight: 50
