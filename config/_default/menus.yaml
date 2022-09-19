@@ -11,14 +11,18 @@ leftnav:
   name: Readings
   url: /pages/readings
   weight: 30
+- identifier: 5f9f81f5-e4c0-468b-afd0-d8b0f42e88b2
+  name: Lecture Slides
+  url: /pages/lecture-slides
+  weight: 40
 - identifier: 4179d1c0-7094-4d60-ae8b-e4c80e993b15
   name: Scenarios
   url: /pages/scenarios
-  weight: 40
+  weight: 50
 - identifier: fb422766-748d-47a2-867d-1e5e54682b37
   name: Final Exam
   url: /pages/final-exam
-  weight: 50
+  weight: 60
 - identifier: 593db1b1-549f-42b1-86eb-4b1027a6f444
   name: 'Scenario #1'
   parent: 4179d1c0-7094-4d60-ae8b-e4c80e993b15
