@@ -17,14 +17,14 @@ uid: 5f9f81f5-e4c0-468b-afd0-d8b0f42e88b2
 - {{% resource_link "be59b285-efd1-4158-b4fd-ce8f9ed3f962" "Class #9 (PDF)" %}}
 - {{% resource_link "15449518-e90a-4fe4-97dc-7599571e69ce" "Class #10 (PDF)" %}}
 - {{% resource_link "7faa3cc6-6f81-4d22-88e5-5ac0e1bae51b" "Class #11 (PDF - 1.2 MB)" %}}
-- Class #12 (PDF)
+- {{% resource_link "786edc00-85a1-472b-a493-db3f6fdf6419" "Class #12 (PDF)" %}}
 - Class #13 (no lecture)
-- Class #14 (PDF)
-- Class #15 (PDF)
-- Class #16 (PDF)
+- {{% resource_link "dbf10f1b-c969-4bc7-be9a-d1d8a761f1e8" "Class #14 (PDF)" %}}
+- {{% resource_link "e31017e3-455d-488a-bb13-1411d34387ec" "Class #15 (PDF)" %}}
+- {{% resource_link "835bbcd7-2edb-4b60-8d3a-ae1a16c3bb25" "Class #16 (PDF)" %}}
 - Class #17 (no lecture)
-- Class #18 (PDF)
-- Class #19 (PDF)
-- Class #20 (PDF)
+- {{% resource_link "7499bfe7-4db3-42aa-889b-8a25006155a4" "Class #18 (PDF)" %}}
+- {{% resource_link "b4683f0e-0701-4dae-b35b-8e2de1c3a5be" "Class #19 (PDF)" %}}
+- {{% resource_link "539e68fe-4410-4f56-bbfa-994169fdf0c1" "Class #20 (PDF)" %}}
 - Class #21 (no lecture)
-- Class #22 (PDF)
+- {{% resource_link "86d08b8a-4d60-4220-b068-1df150ff446b" "Class #22 (PDF)" %}}
