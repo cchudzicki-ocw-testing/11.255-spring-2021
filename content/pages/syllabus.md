@@ -85,7 +85,7 @@ Grades are based on the various course elements as follows:   
 - In-class final exam: 20%
 - Class participation/attendance, especially in role plays: 15%
 
-Self-reflection memos and scenario framing memos will be graded as follows:   
+Self-reflection memos and scenario framing memos will be graded as follows:     
 
 - Memos that show only a minimal attempt to address the questions or the assigned material, or which are poorly written, will receive a check-minus (i.e., a grade of C+ to B-).   
 - An acceptable effort will get a check (i.e., a grade of B to A-).   
