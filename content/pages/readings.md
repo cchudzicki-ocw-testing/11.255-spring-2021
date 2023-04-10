@@ -78,4 +78,4 @@ Thomas-Hunt, Melissa and Anya Malkov (2013), [“Social Norms and Stereotypes: W
 
 Tinsley, Catherine et al. (2009). ["Women at the Bargaining Table: Pitfalls and Prospects."](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1571-9979.2009.00222.x) Marquette University Law School Legal Studies Research Paper Series, 09-19: 1–20.
 
-Waldman, Ellen (ed.) (2011). *Mediation Ethics: Cases and Commentaries*. San Francisco: Jossey-Bass. ISBN: 9780787995881.⸻
+Waldman, Ellen (ed.) (2011). *Mediation Ethics: Cases and Commentaries*. San Francisco: Jossey-Bass. ISBN: 9780787995881.
