@@ -62,17 +62,6 @@ Following each negotiation simulation, all students are responsible for assessi
 
 Each student will be paired up at the beginning of the semester. After each RPS exercise, each student will provide a one-to-two-paragraph feedback (or a set of comments and suggestions) to her/his partner via email and copy the instructors.
 
-### Guidelines for Scenario Leaders
-
-Scenario leaders are responsible for preparing a 1–2 page (single spaced) framing memo in advance of their assigned scenario. This memo is to be uploaded to canvas one day before class the scenario will be discussed. The memo should clearly express the leader's ideas and approach to the scenario and serve as a template for facilitating a small group discussion. Drawing on the readings and class lectures, the small groups should analyze the scenario together. Scenario leaders should help the group: 
-
-- Identify the choices that the stakeholders in the scenario must make;     
-- Determine which principles the stakeholders should (or might) rely on in making these choices;     
-- Identify what negotiation or consensus building strategies the stakeholders might pursue, based on their priorities; and    
-- Assess potential problems that the stakeholders may encounter. 
-
-Through the exchange of perspectives on these issues, students will have an opportunity to think hard about their personal theories of practice, improve their ability to analyze negotiation and dispute resolution  situations, and craft appropriate negotiation strategies. 
-
 ### Video Presentations 
 
 Every student will be asked to make one video presentation. Once the class roster is final, each student will be assigned to one of the RPS exercises. On the day of the RPS exercise, each assigned student will be asked to video-record one of the breakout groups conducting their negotiation exercise. This footage will then need to be edited into a “highlight reel” of no more than 5–6 minutes. Titles and subtitles can be added. The point of the video is to document how the videographer thinks the negotiators handled important aspects of the assignment. Each video producer will lead a short class discussion of his or her composite video. \[Note: These recordings are not available to OCW users.\]
