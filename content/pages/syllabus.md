@@ -42,13 +42,13 @@ Participation in all of the role-play simulations is required. Short self-refle
 
 ### Scenarios
 
-Every student is expected to come to class familiar with the assigned scenarios - when applicable - and ready to apply the ideas covered in the assigned readings. Scenario leaders (each student will fill this role twice over the course of the semester) have the added responsibility of preparing a two-page framing memo in advance of the scenario and facilitating discussion about the scenario in small groups; see further guidelines below. 
+Every student is expected to come to class familiar with the assigned scenarios—when applicable—and ready to apply the ideas covered in the assigned readings. Scenario leaders (each student will fill this role twice over the course of the semester) have the added responsibility of preparing a two-page framing memo in advance of the scenario and facilitating discussion about the scenario in small groups; see further guidelines below. 
 
 All negotiation self-reflection memos and scenario framing memos must be posted on the class site as PDF documents by the assigned due date. Please do not submit assignments as Word documents or in other formats.
 
 ### Making Up Missed Negotiation Simulations
 
-Participation in all of the role-play simulations is required. If a student misses a negotiation simulation, it is that student’s responsibility to make up the missed work on their own time, either with classmates or friends. Students should arrange to get game materials for the make-up simulations from Lidia. Students are expected to complete the simulation and submit their reflections by the original due date, unless otherwise arranged with the teaching staff.
+Participation in all of the role-play simulations is required. If a student misses a negotiation simulation, it is that student’s responsibility to make up the missed work on their own time, either with classmates or friends. Students should arrange to get game materials for the make-up simulations from the instructors. Students are expected to complete the simulation and submit their reflections by the original due date, unless otherwise arranged with the teaching staff.
 
 ### Synchronous Lectures
 
@@ -60,7 +60,7 @@ Following each negotiation simulation, all students are responsible for assessi
 
 ### Negotiating Partner Feedback 
 
-Each student will be paired up at the beginning of the semester. After each RPS exercise, each student will provide a one-to-two-paragraph feedback (or a set of comments and suggestions) to her/his partner via email and copy Lidia.
+Each student will be paired up at the beginning of the semester. After each RPS exercise, each student will provide a one-to-two-paragraph feedback (or a set of comments and suggestions) to her/his partner via email and copy the instructors.
 
 ### Guidelines for Scenario Leaders
 
