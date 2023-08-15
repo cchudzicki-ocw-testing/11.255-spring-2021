@@ -34,6 +34,8 @@ Lawrence Susskind and Jeffrey Cruikshank, *Breaking Robert’s Rules* (Oxford Un
 
 Lawrence Susskind, *Good for You, Great for Me: Finding the Trading Zone and Winning at Win-Win Negotiation* (Public Affairs, New York), 2015. ISBN: 9781610394253. Kindle version available online from Amazon. 
 
+\[For other readings, see the {{% resource_link "844bcf70-9c1d-433f-b805-788ee06f83e7" "Readings" %}} page.\]
+
 ### Role-play Simulation (RPS) Exercises
 
 Participation in all of the role-play simulations is required. Short self-reflection memos reviewing the results of each of the negotiation simulations are required from all students for every game. RPS negotiations will be videotaped to enhance student learning. After each RPS exercise, students are required to provide written feedback (1–2 paragraphs) to their respective partners. 
