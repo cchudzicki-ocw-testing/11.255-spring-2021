@@ -52,7 +52,7 @@ Participation in all of the role-play simulations is required. If a student mis
 
 ### Synchronous Lectures
 
-Students are required to attend all scheduled class sessions. Due to the nature of the course every class is meant to be synchronous. As noted above class participation is an important part of the class, and students are expected to be present synchronously for all lectures and negotiations. Sessions will be recorded and will be made available online for one week to help students stay up to date if they are unable to attend a class session. Recordings are only for use by students in the class. 
+Students are required to attend all scheduled class sessions. Due to the nature of the course every class is meant to be synchronous. As noted above class participation is an important part of the class, and students are expected to be present synchronously for all lectures and negotiations. Sessions will be recorded and will be made available online for one week to help students stay up to date if they are unable to attend a class session. \[Note: These recordings are not available to OCW users.\]
 
 ### Role Play Self-Reflection Memos
 
@@ -75,7 +75,7 @@ Through the exchange of perspectives on these issues, students will have an oppo
 
 ### Video Presentations 
 
-Every student will be asked to make one video presentation. Once the class roster is final, each student will be assigned to one of the RPS exercises. On the day of the RPS exercise, each assigned student will be asked to video record one of the breakout groups conducting their negotiation exercise. This footage will then need to be edited into a “highlight reel” of no more than 5–6 minutes. Titles and subtitles can be added. The point of the video is to document how the videographer thinks the negotiators handled important aspects of the assignment. Each video producer will lead a short class discussion of his or her composite video.
+Every student will be asked to make one video presentation. Once the class roster is final, each student will be assigned to one of the RPS exercises. On the day of the RPS exercise, each assigned student will be asked to video-record one of the breakout groups conducting their negotiation exercise. This footage will then need to be edited into a “highlight reel” of no more than 5–6 minutes. Titles and subtitles can be added. The point of the video is to document how the videographer thinks the negotiators handled important aspects of the assignment. Each video producer will lead a short class discussion of his or her composite video. \[Note: These recordings are not available to OCW users.\]
 
 ## Grading Policies
 
