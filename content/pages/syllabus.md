@@ -26,13 +26,13 @@ Some of the most important work in the field of dispute resolution is being done
 
 ### Required Texts 
 
-Roger Fisher and William Ury, *Getting to Yes*, 3rd edition (Penguin, New York), 2011. ISBN: 9780143118756. This is a short paperback. Please read before the 5th class session. 
+Roger Fisher and William Ury, *Getting to Yes*, 3<sup>rd</sup> edition (Penguin, New York), 2011. ISBN: 9780143118756. This is a short paperback. Please read before the 5<sup>th</sup> class session. 
 
-Lawrence Susskind and Jeffrey Cruikshank, *Breaking the Impasse: Consensual Approaches to Resolving Public Disputes* (Basic Books, New York), 1987. ISBN: 9780465007509. This is background reading. Please read the first four chapters before the 2nd class session. 
+Lawrence Susskind and Jeffrey Cruikshank, *Breaking the Impasse: Consensual Approaches to Resolving Public Disputes* (Basic Books, New York), 1987. ISBN: 9780465007509. This is background reading. Please read the first four chapters before the 2<sup>nd</sup> class session. 
 
-Lawrence Susskind and Jeffrey Cruikshank, *Breaking Robert’s Rules* (Oxford University Press, New York) 2006. ISBN: 9780195308365. This is background reading. Please read Part 1 before the 6th class session. 
+Lawrence Susskind and Jeffrey Cruikshank, *Breaking Robert’s Rules* (Oxford University Press, New York) 2006. ISBN: 9780195308365. This is background reading. Please read Part 1 before the 6<sup>th</sup> class session. 
 
-Lawrence Susskind, *Good for You, Great for Me: Finding the Trading Zone and Winning at Win-Win Negotiation* (Public Affairs, New York), 2015. ISBN: 9781610394253. Kindle version available online from Amazon. 
+Lawrence Susskind, *Good for You, Great for Me: Finding the Trading Zone and Winning at Win-Win Negotiation* (Public Affairs, New York), 2015. ISBN: 9781610394253.
 
 \[For other readings, see the {{% resource_link "844bcf70-9c1d-433f-b805-788ee06f83e7" "Readings" %}} page.\]
 
@@ -44,7 +44,7 @@ Participation in all of the role-play simulations is required. Short self-refle
 
 Every student is expected to come to class familiar with the assigned scenarios - when applicable - and ready to apply the ideas covered in the assigned readings. Scenario leaders (each student will fill this role twice over the course of the semester) have the added responsibility of preparing a two-page framing memo in advance of the scenario and facilitating discussion about the scenario in small groups; see further guidelines below. 
 
-All negotiation self-reflection memos and scenario framing memos must be posted on the 11.255 canvas class site as PDF documents by the assigned due date. Please do not submit assignments as Word documents or in other formats.
+All negotiation self-reflection memos and scenario framing memos must be posted on the class site as PDF documents by the assigned due date. Please do not submit assignments as Word documents or in other formats.
 
 ### Making Up Missed Negotiation Simulations
 
