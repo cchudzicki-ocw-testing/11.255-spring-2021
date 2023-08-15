@@ -20,7 +20,7 @@ Conventional legislative, administrative, and judicial means of resolving resour
 
 This seminar is designed for graduate students with no prior background or experience in the fields of negotiation or dispute resolution. Lectures, scenarios, case studies, video analysis, and role-play simulations are used to introduce students to the "art" and "science" of negotiation and consensus building (or collaboration). The class also provides an intensive opportunity for each student to build his or her personal theory of practice and to strengthen their negotiating capabilities. 
 
-Some of the most important work in the field of dispute resolution is being done at the inter-university [Program on Negotiation](https://www.pon.harvard.edu/) at Harvard Law School (PON). The Department of Urban Studies and Planning is well represented at the Program through the work of students and faculty affiliated with the MIT-Harvard Public Disputes Program. 11.255 builds on the research at PON. 
+Some of the most important work in the field of dispute resolution is being done at the inter-university [Program on Negotiation](https://www.pon.harvard.edu/) at Harvard Law School (PON). The Department of Urban Studies and Planning is well represented at the Program through the work of students and faculty affiliated with the MIT-Harvard Public Disputes Program. This course builds on the research at PON. 
 
 ## Course Logistics and Participation 
 
